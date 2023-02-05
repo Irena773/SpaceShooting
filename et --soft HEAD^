@@ -1,0 +1,306 @@
+[33mcommit 29ae30995ea4d487578623ad63fa3fe0bc2f7052[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Irena773 <ozawa.nanami.18@shizuoka.ac.jp>
+Date:   Mon Feb 6 04:49:40 2023 +0900
+
+    大きいファイルの削除
+
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Blue_Set_Clean.mat
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Blue_Set_Clean.mat.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Base_Color.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Base_Color.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Emissive.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Emissive.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Height.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Height.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Metallic.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Metallic.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Mixed_AO.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Mixed_AO.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Normal.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Normal.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Normal_OpenGL.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Clean/Plasma_SMG_Mat_Normal_OpenGL.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Blue_Set_Dirty.mat
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Blue_Set_Dirty.mat.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Base_Color.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Base_Color.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Emissive.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Emissive.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Height.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Height.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Metallic.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Metallic.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Mixed_AO.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Mixed_AO.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Normal.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Normal.png.meta
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Normal_OpenGL.png
+D	Assets/Plasma Guns Lite/Textures/Blue_Set_Dirty/Plasma_SMG_Mat_Normal_OpenGL.png.meta
+
+[33mcommit 42dd203f7c9e2dbbcc91119b0b18a8df063979a2[m
+Author: Irena773 <ozawa.nanami.18@shizuoka.ac.jp>
+Date:   Mon Feb 6 04:30:28 2023 +0900
+
+    first commit
+
+A	.gitignore
+A	.vsconfig
+A	Assets/BGM.meta
+A	Assets/BGM/battlebgm.mp3
+A	Assets/BGM/battlebgm.mp3.meta
+A	Assets/Data.meta
+A	Assets/Data/Score.txt
+A	Assets/Data/Score.txt.meta
+A	Assets/Image.meta
+A	Assets/Image/HowTo.png
+A	Assets/Image/HowTo.png.meta
+A	Assets/Image/ScoreBackGround.png
+A	Assets/Image/ScoreBackGround.png.meta
+A	Assets/Image/Start.png
+A	Assets/Image/Start.png.meta
+A	Assets/Image/Title.png
+A	Assets/Image/Title.png.meta
+A	Assets/Lunar Landscape 3D.meta
+A	Assets/Lunar Landscape 3D/Prefabs.meta
+A	Assets/Lunar Landscape 3D/Prefabs/Rocks_00.prefab
+A	Assets/Lunar Landscape 3D/Prefabs/Rocks_00.prefab.meta
+A	Assets/Lunar Landscape 3D/Prefabs/Rocks_01.prefab
+A	Assets/Lunar Landscape 3D/Prefabs/Rocks_01.prefab.meta
+A	Assets/Lunar Landscape 3D/Prefabs/Rocks_02.prefab
+A	Assets/Lunar Landscape 3D/Prefabs/Rocks_02.prefab.meta
+A	Assets/Lunar Landscape 3D/Prefabs/Rocks_03.prefab
+A	Assets/Lunar Landscape 3D/Prefabs/Rocks_03.prefab.meta
+A	Assets/Lunar Landscape 3D/Resources.meta
+A	Assets/Lunar Landscape 3D/Resources/Geometry.meta
+A	Assets/Lunar Landscape 3D/Resources/Geometry/Rocks.fbx
+A	Assets/Lunar Landscape 3D/Resources/Geometry/Rocks.fbx.meta
+A	Assets/Lunar Landscape 3D/Resources/Geometry/Terrain.asset
+A	Assets/Lunar Landscape 3D/Resources/Geometry/Terrain.asset.meta
+A	Assets/Lunar Landscape 3D/Resources/Materials.meta
+A	Assets/Lunar Landscape 3D/Resources/Materials/Crater_Brush.brush
+A	Assets/Lunar Landscape 3D/Resources/Materials/Crater_Brush.brush.meta
+A	Assets/Lunar Landscape 3D/Resources/Materials/Dust.mat
+A	Assets/Lunar Landscape 3D/Resources/Materials/Dust.mat.meta
+A	Assets/Lunar Landscape 3D/Resources/Materials/Ground_00.terrainlayer
+A	Assets/Lunar Landscape 3D/Resources/Materials/Ground_00.terrainlayer.meta
+A	Assets/Lunar Landscape 3D/Resources/Materials/Ground_01.terrainlayer
+A	Assets/Lunar Landscape 3D/Resources/Materials/Ground_01.terrainlayer.meta
+A	Assets/Lunar Landscape 3D/Resources/Materials/Ground_02.terrainlayer
+A	Assets/Lunar Landscape 3D/Resources/Materials/Ground_02.terrainlayer.meta
+A	Assets/Lunar Landscape 3D/Resources/Materials/Ground_03.terrainlayer
+A	Assets/Lunar Landscape 3D/Resources/Materials/Ground_03.terrainlayer.meta
+A	Assets/Lunar Landscape 3D/Resources/Materials/Milkyway.mat
+A	Assets/Lunar Landscape 3D/Resources/Materials/Milkyway.mat.meta
+A	Assets/Lunar Landscape 3D/Resources/Materials/Rocks.mat
+A	Assets/Lunar Landscape 3D/Resources/Materials/Rocks.mat.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/Crater_Brush.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/Crater_Brush.png.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_00_D.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_00_D.png.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_00_N.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_00_N.png.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_01_D.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_01_D.png.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_01_N.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_01_N.png.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_02_D.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_02_D.png.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_02_N.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_02_N.png.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_03_D.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_03_D.png.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_03_N.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/Ground_03_N.png.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/LensDirt.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/LensDirt.png.meta
+A	Assets/Lunar Landscape 3D/Resources/Textures/Milkyway.png
+A	Assets/Lunar Landscape 3D/Resources/Textures/Milkyway.png.meta
+A	Assets/Lunar Landscape 3D/Scenes.meta
+A	Assets/Lunar Landscape 3D/Scenes/LunarLandscape3D.unity
+A	Assets/Lunar Landscape 3D/Scenes/LunarLandscape3D.unity.meta
+A	Assets/Lunar Landscape 3D/Scenes/LunarLandscape3D_Profiles.meta
+A	Assets/Lunar Landscape 3D/Scenes/LunarLandscape3D_Profiles/Post-Processing Volume Profile.asset
+A	Assets/Lunar Landscape 3D/Scenes/LunarLandscape3D_Profiles/Post-Processing Volume Profile.asset.meta
+A	Assets/Material.meta
+A	Assets/Material/MChargeonpeito.mat
+A	Assets/Material/MChargeonpeito.mat.meta
+A	Assets/Material/MKonpeito 1.mat
+A	Assets/Material/MKonpeito 1.mat.meta
+A	Assets/MilkyWay.meta
+A	Assets/MilkyWay/Material.meta
+A	Assets/MilkyWay/Material/MilkyWay.mat
+A	Assets/MilkyWay/Material/MilkyWay.mat.meta
+A	Assets/MilkyWay/MilkyWaySkybox.pdf
+A	Assets/MilkyWay/MilkyWaySkybox.pdf.meta
+A	Assets/MilkyWay/Scenes.meta
+A	Assets/MilkyWay/Scenes/Default.unity
+A	Assets/MilkyWay/Scenes/Default.unity.meta
+A	Assets/MilkyWay/Scenes/DefaultSettings.lighting
+A	Assets/MilkyWay/Scenes/DefaultSettings.lighting.meta
+A	Assets/MilkyWay/Texture.meta
+A	Assets/MilkyWay/Texture/MilkyWayPanorama8K.jpg
+A	Assets/MilkyWay/Texture/MilkyWayPanorama8K.jpg.meta
+A	Assets/Models.meta
+A	Assets/Models/konpeto.fbx
+A	Assets/Models/konpeto.fbx.meta
+A	Assets/Oculus.meta
+A	Assets/Oculus/AudioManager.meta
+A	Assets/Oculus/AudioManager/Audio.meta
+A	Assets/Oculus/AudioManager/Audio/TestSounds.meta
+A	Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01.wav
+A	Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01.wav.meta
+A	Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01a.wav
+A	Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01a.wav.meta
+A	Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01.wav
+A	Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01.wav.meta
+A	Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01a.wav
+A	Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01a.wav.meta
+A	Assets/Oculus/AudioManager/Oculus.AudioManager.asmdef
+A	Assets/Oculus/AudioManager/Oculus.AudioManager.asmdef.meta
+A	Assets/Oculus/AudioManager/Scenes.meta
+A	Assets/Oculus/AudioManager/Scenes/Scripts.meta
+A	Assets/Oculus/AudioManager/Scenes/Scripts/TestScript.cs
+A	Assets/Oculus/AudioManager/Scenes/Scripts/TestScript.cs.meta
+A	Assets/Oculus/AudioManager/Scenes/Test.unity
+A	Assets/Oculus/AudioManager/Scenes/Test.unity.meta
+A	Assets/Oculus/AudioManager/Scripts.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/AmbienceEmitter.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/AmbienceEmitter.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/AudioManager.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/AudioManager.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/AudioManager_Sound.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/AudioManager_Sound.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/AudioImportPostProcessor.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/AudioImportPostProcessor.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/AudioManagerInspector.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/AudioManagerInspector.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/MinMaxPropertyDrawer.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/MinMaxPropertyDrawer.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/MixerSnapshotPropertyDrawer.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/MixerSnapshotPropertyDrawer.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/OSPPropsPropertyDrawer.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/OSPPropsPropertyDrawer.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/Oculus.AudioManager.Audio.Editor.asmdef
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/Oculus.AudioManager.Audio.Editor.asmdef.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/SoundFXPropertyDrawer.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/SoundFXPropertyDrawer.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/SoundFXRefPropertyDrawer.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/Editor/SoundFXRefPropertyDrawer.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/MinMaxAttribute.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/MinMaxAttribute.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/SoundEmitter.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/SoundEmitter.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/SoundFX.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/SoundFX.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Audio/SoundFXRef.cs
+A	Assets/Oculus/AudioManager/Scripts/Audio/SoundFXRef.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Utils.meta
+A	Assets/Oculus/AudioManager/Scripts/Utils/Editor.meta
+A	Assets/Oculus/AudioManager/Scripts/Utils/Editor/DrawerInspectorNote.cs
+A	Assets/Oculus/AudioManager/Scripts/Utils/Editor/DrawerInspectorNote.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Utils/Editor/Oculus.AudioManager.Utils.Editor.asmdef
+A	Assets/Oculus/AudioManager/Scripts/Utils/Editor/Oculus.AudioManager.Utils.Editor.asmdef.meta
+A	Assets/Oculus/AudioManager/Scripts/Utils/FastList.cs
+A	Assets/Oculus/AudioManager/Scripts/Utils/FastList.cs.meta
+A	Assets/Oculus/AudioManager/Scripts/Utils/InspectorNoteAttribute.cs
+A	Assets/Oculus/AudioManager/Scripts/Utils/InspectorNoteAttribute.cs.meta
+A	Assets/Oculus/Interaction.meta
+A	Assets/Oculus/Interaction/Editor.meta
+A	Assets/Oculus/Interaction/Editor/EditorBase.cs
+A	Assets/Oculus/Interaction/Editor/EditorBase.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab.meta
+A	Assets/Oculus/Interaction/Editor/Grab/GrabbingRuleEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/GrabbingRuleEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab.meta
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandGhostProviderUtils.cs
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandGhostProviderUtils.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandGrabInteractableEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandGrabInteractableEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandGrabPointEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandGrabPointEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandGrabPoseEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandGrabPoseEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandPoseEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandPoseEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandWristOffsetUndoWizard.cs
+A	Assets/Oculus/Interaction/Editor/Grab/HandGrab/HandWristOffsetUndoWizard.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces.meta
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/BezierGrabSurfaceEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/BezierGrabSurfaceEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/BezierSurfaceEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/BezierSurfaceEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/BoxEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/BoxEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/BoxGrabSurfaceEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/BoxGrabSurfaceEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/CylinderEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/CylinderEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/CylinderGrabSurfaceEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/CylinderGrabSurfaceEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/SphereEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/SphereEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/SphereGrabSurfaceEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/SnapSurfaces/SphereGrabSurfaceEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Grab/Visuals.meta
+A	Assets/Oculus/Interaction/Editor/Grab/Visuals/HandPuppetEditor.cs
+A	Assets/Oculus/Interaction/Editor/Grab/Visuals/HandPuppetEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Hands.meta
+A	Assets/Oculus/Interaction/Editor/Hands/FromHandPrefabDataSourceEditor.cs
+A	Assets/Oculus/Interaction/Editor/Hands/FromHandPrefabDataSourceEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Hands/HandVisualEditor.cs
+A	Assets/Oculus/Interaction/Editor/Hands/HandVisualEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/OVRIntegration.meta
+A	Assets/Oculus/Interaction/Editor/OVRIntegration/InputDataProviderUpdateTriggerOVREditor.cs
+A	Assets/Oculus/Interaction/Editor/OVRIntegration/InputDataProviderUpdateTriggerOVREditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Oculus.Interaction.Editor.asmdef
+A	Assets/Oculus/Interaction/Editor/Oculus.Interaction.Editor.asmdef.meta
+A	Assets/Oculus/Interaction/Editor/PackageUtils.meta
+A	Assets/Oculus/Interaction/Editor/PackageUtils/AssetListWindow.cs
+A	Assets/Oculus/Interaction/Editor/PackageUtils/AssetListWindow.cs.meta
+A	Assets/Oculus/Interaction/Editor/PackageUtils/PackageCleanup.cs
+A	Assets/Oculus/Interaction/Editor/PackageUtils/PackageCleanup.cs.meta
+A	Assets/Oculus/Interaction/Editor/Poke.meta
+A	Assets/Oculus/Interaction/Editor/Poke/BoxProximityFieldEditor.cs
+A	Assets/Oculus/Interaction/Editor/Poke/BoxProximityFieldEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Poke/CircleProximityFieldEditor.cs
+A	Assets/Oculus/Interaction/Editor/Poke/CircleProximityFieldEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Poke/CylinderProximityFieldEditor.cs
+A	Assets/Oculus/Interaction/Editor/Poke/CylinderProximityFieldEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Poke/PokeInteractableEditor.cs
+A	Assets/Oculus/Interaction/Editor/Poke/PokeInteractableEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/PoseDetection.meta
+A	Assets/Oculus/Interaction/Editor/PoseDetection/FeatureListPropertyDrawer.cs
+A	Assets/Oculus/Interaction/Editor/PoseDetection/FeatureListPropertyDrawer.cs.meta
+A	Assets/Oculus/Interaction/Editor/PoseDetection/FeatureStateThresholdsEditor.cs
+A	Assets/Oculus/Interaction/Editor/PoseDetection/FeatureStateThresholdsEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/PoseDetection/FingerFeatureListPropertyDrawer.cs
+A	Assets/Oculus/Interaction/Editor/PoseDetection/FingerFeatureListPropertyDrawer.cs.meta
+A	Assets/Oculus/Interaction/Editor/PoseDetection/FingerFeatureStateThresholdsEditor.cs
+A	Assets/Oculus/Interaction/Editor/PoseDetection/FingerFeatureStateThresholdsEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/PoseDetection/JointRotationFeatureConfigEditor.cs
+A	Assets/Oculus/Interaction/Editor/PoseDetection/JointRotationFeatureConfigEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/PoseDetection/JointVelocityFeatureConfigEditor.cs
+A	Assets/Oculus/Interaction/Editor/PoseDetection/JointVelocityFeatureConfigEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/PoseDetection/TransformConfigEditor.cs
+A	Assets/Oculus/Interaction/Editor/PoseDetection/TransformConfigEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/PoseDetection/TransformFeatureStateThresholdsEditor.cs
+A	Assets/Oculus/Interaction/Editor/PoseDetection/TransformFeatureStateThresholdsEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Selection.meta
+A	Assets/Oculus/Interaction/Editor/Selection/Controllers.meta
+A	Assets/Oculus/Interaction/Editor/Selection/Controllers/ControllerOffsetEditor.cs
+A	Assets/Oculus/Interaction/Editor/Selection/Controllers/ControllerOffsetEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Selection/Hands.meta
+A	Assets/Oculus/Interaction/Editor/Selection/Hands/ConicalFrustumEditor.cs
+A	Assets/Oculus/Interaction/Editor/Selection/Hands/ConicalFrustumEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Selection/Hands/HandWristOffsetEditor.cs
+A	Assets/Oculus/Interaction/Editor/Selection/Hands/HandWristOffsetEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Surfaces.meta
+A	Assets/Oculus/Interaction/Editor/Surfaces/CylinderSurfaceEditor.cs
+A	Assets/Oculus/Interaction/Editor/Surfaces/CylinderSurfaceEditor.cs.meta
+A	Assets/Oculus/Interaction/Editor/Surfaces/PlaneSurfaceEditor.cs
+A	Assets/Oculus/Interac
